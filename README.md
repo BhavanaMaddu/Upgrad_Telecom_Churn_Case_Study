@@ -65,7 +65,7 @@ In this project, you will use the usage-based definition to define churn.
 
  
 
-High-value churn
+## High-value churn
 In the Indian and Southeast Asian markets, approximately 80% of revenue comes from the top 20% of customers (called high-value customers). Thus, if we can reduce the churn of high-value customers, we will be able to reduce significant revenue leakage.
 
  
@@ -80,7 +80,7 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
 
  
 
-Understanding customer behaviour during churn
+## Understanding customer behaviour during churn
 Customers usually do not decide to switch to another competitor instantly, but rather over a period of time (this is especially applicable to high-value customers). In churn prediction, we assume that there are three phases of the customer lifecycle :
 
 The ‘good’ phase: In this phase, the customer is happy with the service and behaves as usual.
@@ -95,7 +95,7 @@ In this case, since you are working over a four-month window, the first two mont
 
  
 
-Data dictionary
+## Data dictionary
 The dataset can be downloaded using this link. The data dictionary is provided for download below.
 
 Data Dictionary - Telecom Churn
@@ -108,7 +108,7 @@ The attributes containing 6, 7, 8, 9 as suffixes imply that those correspond to 
 
  
 
-Data preparation
+## Data preparation
 The following data preparation steps are crucial for this problem:
 
  
@@ -142,7 +142,7 @@ After tagging churners, remove all the attributes corresponding to the churn pha
 
  
 
-Modelling
+## Modelling
 Build models to predict churn. The predictive model that you’re going to build will serve two purposes:
 
 It will be used to predict whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
