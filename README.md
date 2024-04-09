@@ -1,6 +1,6 @@
 # Upgrad_Telecom_Churn_Case_Study
-# Telecom_Churn_Case_Study
-Business problem overview
+
+## Business problem overview
  
 
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
@@ -19,7 +19,7 @@ In this project, you will analyse customer-level data of a leading telecom firm,
 
  
 
-Understanding and defining churn
+## Understanding and defining churn
 There are two main models of payment in the telecom industry - postpaid (customers pay a monthly/annual bill after using the services) and prepaid (customers pay/recharge with a certain amount in advance and then use the services).
 
  
@@ -40,7 +40,7 @@ This project is based on the Indian and Southeast Asian market.
 
  
 
-Definitions of churn
+## Definitions of churn
 There are various ways to define churn, such as:
 
  
